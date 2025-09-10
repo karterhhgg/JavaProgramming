@@ -1,4 +1,29 @@
+
 # Core Java Programs
+
+📌 Topics Covered
+
+✅ Arrays
+
+✅ Patterns (star, number, character)
+
+✅ Recursion (factorial, fibonacci, etc.)
+
+✅ Functions & Methods
+
+✅ Operators & Keywords
+
+✅ Loops & Control Statements
+
+✅ Strings & StringBuilder
+
+✅ Sorting Algorithms
+
+✅ Bit Manipulation
+
+✅ Mathematical Operations (odd/even, prime, tables)
+
+✅ Miscellaneous Practice Programs
 
 ## Description
 This repository contains multiple Core Java programs for practice and learning.  
