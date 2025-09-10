@@ -32,7 +32,7 @@ It includes programs on arrays, patterns, recursion, functions, operators, keywo
 ## Technologies
 - Java SE
 - Core Java concepts (OOP, loops, arrays, recursion, functions, operators, strings)
-- Optional: Any IDE like VS Code or IntelliJ IDEA
+- Optional: Any IDE like VS Code 
 
 ## Programs List (Topics Covered)
 1. **Arrays** – Basic operations, traversals, and manipulations  
